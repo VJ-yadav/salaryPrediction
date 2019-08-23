@@ -15,7 +15,7 @@ Develop  :- Developed a Machine Learning BAseline model, so that we have somethi
             
             Metrics Used :- Mean Squared Error (MSE) , R-Sqaured Error
             
-# Libraries USed
+# Libraries Used
 
 Python 3.7 , Jupyter lab , Numpy , pandas, matplotlib,Scikit-Learn , statsmodel
 
